@@ -1,4 +1,4 @@
-# Lorem Ipsum.py
+# <img src="white-lorem.png" height="64">
 <img src="image.png">
 
 ## Install
