@@ -10,7 +10,7 @@ os.getlogin()
 while True:
     x += 1
     deadx -= 1
-    print(f"m\033[94m{platform.platform()}- 3 ---        | Ipsum")
+    print(f"\033[94m{platform.platform()}- 3 ---        | Ipsum")
     time.sleep(val)
     print(f"\033[92m{platform.platform()}-- . ---        | Lorem")
     time.sleep(val)
