@@ -1,7 +1,8 @@
 # <img src="white-lorem.png" height="64">
-<img src="image.png">
 
 ## Install
+<img height="280px" src="image.png" align="right" alt="lorem">
+
 First Git clone the repo with the following
 ```
 git clone https://github.com/rhhen122/lorem.git
